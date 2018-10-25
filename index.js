@@ -1,1 +1,1 @@
-console.log("🐰_ Comming Sool");
+console.log('🐰_ Comming Sool');
