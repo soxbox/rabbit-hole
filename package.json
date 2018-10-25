@@ -4,5 +4,13 @@
   "main": "index.js",
   "repository": "git@github.com:soxbox/rabbit-hole.git",
   "author": "Tim DeDecker <timothydedecker@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint ./**/*.js"
+  },
+  "devDependencies": {
+    "eslint": "^5.7.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
 }
