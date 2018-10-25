@@ -1,0 +1,8 @@
+{
+  "name": "rabbit-hole",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:soxbox/rabbit-hole.git",
+  "author": "Tim DeDecker <timothydedecker@gmail.com>",
+  "license": "MIT"
+}
